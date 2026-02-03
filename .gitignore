@@ -1,5 +1,7 @@
 # Criando especificamente para este repositório
 data/arquivosBrutos
+*.csv
+*.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
